@@ -1,0 +1,5 @@
+#! /bin/sh
+
+# give exec permission to a file taken from the first argument
+
+chmod +x $1
